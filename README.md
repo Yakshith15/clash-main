@@ -1,4 +1,4 @@
-![Thumbnail](https://github.com/TusharVashishth/clash/blob/main/front/public/thumbnail.png)
+
 
 [Play list Link](https://youtube.com/playlist?list=PL-MEZzrKlTU2Gb65OJlohYSLIWaTkEhFc&si=yk5lGfM49FcRaVha)
 
