@@ -1,8 +1,6 @@
 
 
-[Play list Link](https://youtube.com/playlist?list=PL-MEZzrKlTU2Gb65OJlohYSLIWaTkEhFc&si=yk5lGfM49FcRaVha)
 
-# Clash The Fullstack Series
 
 Hello smart developers this is the source code of **Clash** FUll-Stack series
 
@@ -29,4 +27,4 @@ npm run dev
 
 and in backend side do not forget to setup postgresql in .env file
 
-And All set if you face any issue then checkout my youtube playlist
+
